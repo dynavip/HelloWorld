@@ -9,6 +9,7 @@ namespace HelloWorld
             string imie = "Krzysztof";
             Console.WriteLine("Hello, World!");
             Console.WriteLine("My name is Kris");
+            Console.WriteLine("Cześć!");
         }
     }
 }
